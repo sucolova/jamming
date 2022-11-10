@@ -7,3 +7,7 @@ and you click search for the first time:
 ### possible solutions:
 - redirect to spotify-api login as soon as the site loads for the first time: but the problem is that new users would only see the spotify login when they open our site for the first time. that would be very confusing
 - redirect to a welcome page with a login button, or better: render a welcome page in App.js with react router.
+
+## delete old playlist name after save to spotify
+## when clicked in form, make inputfield empty
+## when in any inputfield, save on key event 'enter'
