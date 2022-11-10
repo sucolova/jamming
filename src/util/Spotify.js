@@ -1,7 +1,7 @@
 let token;
 const clientID = '636dfc0f06d648c1bebf682b8b2a50a5';
 //const redirectURL = 'http://localhost:3000/';
-const redirectURL = 'https://joyful-tapioca-10289f.netlify.app/'
+const redirectURL = 'https://monumental-fenglisu-7988d2.netlify.app/'
 let expirationTime = Number(sessionStorage.getItem('expirationTime'));
 let href = sessionStorage.getItem('href');
 
