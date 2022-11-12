@@ -1,3 +1,8 @@
+
+# try it out!
+https://monumental-fenglisu-7988d2.netlify.app/
+
+
 # Things to improve:
 
 ## if you open the site and you are already logged in to spotify,
